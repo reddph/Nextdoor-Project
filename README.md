@@ -1,0 +1,1 @@
+This project is to help Paul Hart to automate the extraction of Power to Choose (PTC) csv file to Google Sheets and needed edits and share the file with Paul and other admins of Nextdoor community volunteer group. The initial version of the python script checked in is originated by Steve Dodge. 
